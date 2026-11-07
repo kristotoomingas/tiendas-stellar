@@ -17,7 +17,7 @@ Work in progress. Nothing runs yet. The plan and every decision are in [docs/con
 
 ## Risk #1: turning cash into digital dollars
 
-Shops are paid in cash. For digital payments to work, that cash has to become digital dollars somewhere, cheaply. We haven't solved this yet. Our ideas so far are in section 6 of [docs/context.md](docs/context.md).
+Shops are paid in cash. For digital payments to work, that cash has to become digital dollars somewhere, cheaply. We haven't solved this yet. As of Nov 7, the other direction does exist: MoneyGram lets people turn USDC into cash at banks and supermarkets across El Salvador, so distributors can cash out. Getting cash in is the open problem. Our ideas so far are in section 6 of [docs/context.md](docs/context.md).
 
 ## How to run it
 

@@ -411,6 +411,11 @@ This section goes in every doc we make: the README, the one-pager, the pitch, `d
 | 6 | **Banked shops repay by Transfer365**, which is free: a bank transfer to the partner's account with the reference number. No cash trip at all. | Nov 6 | New |
 | 7 | **Cash-out in one batch:** the licensed partner pays distributors into their bank account once a day, so they never have to handle USDC unless they want to. | Nov 6 | New, ask advisors |
 | 8 | **Ask** whether a mobile-money provider with cash agents in El Salvador could be the cash-in network. | Nov 6 | Question |
+| 9 | **Cash-out via MoneyGram.** Distributors can collect cash from their digital dollars at MoneyGram Ramps points (banks, Super Selectos), as a stand-in until a partner pays them into their bank (idea 7). | Nov 7 | Found, check fees |
+| 10 | **No big deposit at sign-up.** Because of credit, a shop never pre-loads money: it takes stock on credit, sells it, then turns cash into digital dollars once a week, only for what it owes. Shops can't afford to lock up money they need for stock. | Nov 7 | Built into the design |
+| 11 | **Ask the banks that already work with MoneyGram** (Cuscatlán, Davivienda, Promerica) whether they could also take cash in, so the same counters handle both directions. | Nov 7 | Question |
+
+**Finding, Nov 7 (Yahya, MoneyGram Ramps locator):** MoneyGram has **cash-out** points in El Salvador (USDC to cash), in San Salvador and other cities. The locator shows the nearest 10 at a time, so we don't have a full count. Examples in central San Salvador: Banco Cuscatlán, Super Selectos, Banco Promerica, Banco Integral, Banco Davivienda, Banco Abank and a DLC road market. What it means for us: cash-out has a real answer today, so a distributor can turn digital dollars into cash at a bank or supermarket. **Cash-in (cash to USDC) is still unsolved,** and that's the half shops need.
 
 **Still to find out:** what cash-in costs per $100 today, how far the nearest payment point is for a typical shop, and which partner could convert in bulk and already has a bank account.
 
