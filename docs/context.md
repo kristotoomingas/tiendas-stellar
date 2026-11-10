@@ -636,7 +636,7 @@ README.md                 what it is, how to run it, contract IDs, demo accounts
 - Facebook and WhatsApp groups: search "emprendedores El Salvador", "tiendas El Salvador", "tenderos El Salvador".
 - LinkedIn: route, sales and credit managers at Salvadoran distributors of drinks, snacks or dairy.
 - Researchers: FUSAI Observatorio MYPE, FLACSO El Salvador, CONAMYPE.
-- UW Latin American student groups, and the challenge advisors.
+- UW Latin American student groups. (Only Yahya contacts the challenge advisors: #17.)
 - Ask everyone for two more names.
 - Reddit only for leads (it skews middle class).
 - Tests with local corner-store owners count for "is it easy to use", not as proof of the El Salvador problem. Label them that way.
@@ -739,6 +739,7 @@ README.md                 what it is, how to run it, contract IDs, demo accounts
 | Nov 9 | MIT licence removed; the code is all rights reserved (#48). |
 | Nov 9 | Reviews: Yahya reviews every PR; Jack reviews Yahya's. |
 | Nov 9 | The deploy script moved from Jack to Yahya, so Yahya's work waits only on Jack's setup script (#15). |
+| Nov 10 | Only Yahya contacts the advisors (Adam Chu, Misha Stastna), with at most two follow-ups each (#17). |
 
 ---
 
