@@ -3,7 +3,7 @@
 Every number we say in the one-pager, pitch, trifold and deck comes from this file (#50). Quotes were copied from the live pages on Mon Nov 9, 2026.
 
 - **PASTE** means: open that entry's link and copy the sentence described, then add its translation.
-- **Checked** stays blank until you've opened the link yourself. Then add your initials and the date.
+- **Checked** says who opened the link and confirmed the quote, and when. Claude checked entries 1–3, 7 and 9–21 on Nov 9; a teammate can add their initials too.
 
 **Never use:** the $7 billion market, "about 70,000 shops", $5 billion as our market, the Chivo $30 bonus or fuel discounts, MoneyGram's 5%.
 
@@ -40,7 +40,7 @@ _Added in #51._
 - **Translation:** "plus the $2,000 million that distributors sell them"
 - **Use in:** one-pager / pitch / trifold / deck
 - **Caveat:** Spoken by Conamype's president, Paul Steiner, who credits unnamed independent market studies. The article does not present it as a Distribución Dinámica finding. Cite it as "Conamype estimate, via Diario El Salvador (27 Feb 2026)". It comes from one official in a government-aligned paper, with no methods. Other outlets only repeat it.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 2. How many shops
 - **Claim:** El Salvador has 85,265 neighbourhood shops and small retailers (2025).
@@ -50,7 +50,7 @@ _Added in #51._
 - **Translation:** "in 2025 there were 85,265 neighbourhood shops or small retailers nationwide"
 - **Use in:** one-pager / pitch / trifold / deck
 - **Caveat:** Counted by Distribución Dinámica, a private distribution consultancy, and presented with Conamype. Methods not published. The total includes eateries, street vendors, tortilla shops, bookshops and smoothie stands, so don't call all 85,265 "neighbourhood shops" (see entry 3). Diario El Salvador reports the same total.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 3. How many are neighbourhood shops proper
 - **Claim:** About 50,000 of those businesses are neighbourhood shops; about 35,000 are other small retailers.
@@ -63,7 +63,7 @@ _Added in #51._
   - Sources disagree: Diario El Salvador (entry 1's article) says other retailers are 18% of the total (about 15,000), while this split makes them 41%.
   - The split adds to 85,275, ten more than the total, probably a typo.
   - Safe wording: "85,265 shops and small retailers" or "more than 50,000 neighbourhood shops".
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 4. Growth in a decade
 - **Claim:** Neighbourhood shops and small retailers grew 23% in ten years.
@@ -115,7 +115,7 @@ _Added in #51._
 - **Translation:** GI-TOC is in English. Santiváñez: (add once pasted)
 - **Use in:** pitch / deck (background only)
 - **Caveat:** GI-TOC's sentence covers northern Central America, not El Salvador alone; the 1.7% is El Salvador's own figure. This is history: the government reports extortion fell sharply after the 2022 state of exception. Use it as background, not as a claim about today.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (GI-TOC quote matches the page; Santiváñez quote still to paste)
 
 ## 8. What shop owners say they need
 - **Claim:** Shop owners' biggest priorities include access to financing and to technology for managing payments, plus business skills and better internet.
@@ -142,7 +142,7 @@ _Added in #51._
   - Other surveys give higher shares (CIOPS 2022: 80.9%).
   - Reasons for borrowing: 43.5% a family emergency, 41.7% to keep the business running.
   - Optional: PASTE the sentences with 68% and 1,869% to have them word for word.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 10. What loan sharks cost
 - **Claim:** A loan shark charges about $35 in interest for every $100 borrowed.
@@ -157,7 +157,7 @@ _Added in #51._
   - The $35 is per loan. Borrowers renew up to 30 times a year, which is how annual rates run into the thousands (the survey's average: up to 2,628% a year).
   - The 96% say they pay daily for their physical safety.
   - PASTE the sentences with 75 % and 96 %.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 11. Small businesses pay suppliers in cash (regional)
 - **Claim:** In El Salvador, Guatemala, Honduras and Mexico, 8 in 10 small businesses pay their suppliers mainly in cash.
@@ -170,7 +170,7 @@ _Added in #51._
   - Regional, not El Salvador alone, even though El Mundo's headline says El Salvador.
   - The 80% is from a 2022 PCMI survey, quoted in a 2025 white paper commissioned by Mastercard, a payments company.
   - Mastercard's own press release doesn't repeat the 80%, and we haven't seen the white paper: https://www.mastercard.com/news/latin-america/es/sala-de-prensa/comunicados-de-prensa/pr-es/2025/abril/pequenas-empresas-y-transformacion-digital-abriendo-una-oportunidad-de-us-448-mil-millones-en-la-industria-de-cpg
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 12. Bank accounts: the central bank's survey
 - **Claim:** Fewer than half of Salvadoran adults have a savings account.
@@ -187,7 +187,7 @@ _Added in #51._
   - Counts savings accounts only.
   - By sex: men 57.6%, women 38.1% (Diario El Mundo, https://diario.elmundo.sv/economia/casi-la-mitad-de-los-salvadorenos-ya-tiene-cuenta-de-ahorro).
   - The World Bank's figure differs (entry 13). Replaces the El Salvador in English link.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 13. Bank accounts: the World Bank
 - **Claim:** The World Bank finds that 43% of Salvadoran adults have an account.
@@ -202,7 +202,7 @@ _Added in #51._
   - About 1,000 interviews in El Salvador, July to September 2024. Counts any account, including mobile money.
   - Differs from the BCR's 46.9% (different year, age group and method), so say "fewer than half".
   - Of adults with no account, 50% say banks are too expensive and 35% say they're too far.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 14. Transfer365 (free bank transfers)
 - **Claim:** The central bank already runs free, instant transfers between bank accounts, moving more than $4 billion a month.
@@ -216,7 +216,7 @@ _Added in #51._
   - Outlets disagree on its share of transfers (93% here, 95.3% in Revista E&N), so say "more than 9 in 10".
   - It only helps people with an account, fewer than half of adults (entries 12 and 13). That's why "cheaper transfers" is not our pitch.
   - Replaces the El Salvador in English link.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 15. Credit bureaus
 - **Claim:** El Salvador has three private credit bureaus, licensed and supervised by the SSF: Equifax, TransUnion and INFORED.
@@ -232,7 +232,7 @@ _Added in #51._
   - The legal term is "agencias de información de datos", under the Ley de Regulación de los Servicios de Información sobre el Historial de Crédito de las Personas.
   - People can see their own report free once every four months. Bureaus may keep negative data for three years at most.
   - Bureaus only see formal credit, so a tienda's supplier credit and loan-shark debt never show up. Our repayment record fills that gap.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 16. The public credit registry
 - **Claim:** The SSF runs a public credit registry, the Central de Riesgos, which lenders in the financial system can consult.
@@ -244,7 +244,7 @@ _Added in #51._
 - **Translation:** "the Central Risk Registry of the Financial System Superintendency"
 - **Use in:** Q&A / deck
 - **Caveat:** Run by the SSF (the supervisor); the BCR (the regulator) writes the reporting rules. Only supervised lenders such as banks and cooperatives report to it, so informal credit is invisible here too. Both links are official copies on the government's transparency portal.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 17. DUNS number
 - **Claim:** A DUNS number is Dun & Bradstreet's nine-digit business ID, used to look up a company's business credit file. Most tiendas won't have one.
@@ -256,7 +256,7 @@ _Added in #51._
 - **Caveat:**
   - D&B is a US company, and its page says no business needs a DUNS number to operate. It says nothing about El Salvador's shops.
   - Our own reasoning (label it as ours): many tiendas are informal (Conamype's president says the state bank's tienda loans are open even to informal shops, entry 21). So most won't have a DUNS number or any business credit file. Our payment record gives them one.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 18. The interest-rate cap law (Ley Contra la Usura)
 - **Claim:** El Salvador caps interest rates by law. Each type of loan has a legal maximum, which the central bank calculates and publishes every six months.
@@ -277,7 +277,7 @@ _Added in #51._
     - Check Arts. 5 to 8 of the law for the exact article.
   - The law covers anyone who lends regularly, and those lenders must register with the BCR where the law requires it. But enforcement against loan sharks is weak (entry 9).
   - Shops pay no interest with us; the distributor pays a fee to be paid early. A lawyer should confirm that fee isn't treated as interest under this law.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ---
 
@@ -294,7 +294,7 @@ _Added in #51._
   - Same FUSAI and ASOMI study as entry 9; methods aren't in the article.
   - Covers all micro and small businesses, not just tiendas. It measures the problem, not our revenue.
   - Of businesses using informal lenders, 52.8% kept away from banks by their own choice, and 12.6% went to a loan shark after a bank said no.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 20. The government's credit line for tiendas
 - **Claim:** A state bank already lends to tiendas: up to $10,000, approved within 72 hours.
@@ -307,7 +307,7 @@ _Added in #51._
   - The lender is Banco de Fomento Agropecuario (BFA), a state bank, backed by Conamype's loan guarantees (entry 21's article).
   - Requires at least one year in business and an owner aged 18 to 75.
   - Judges may ask "why not BFA?" Our answer: BFA is a loan you apply for, averaging about $3,200 (our maths: $1.4M ÷ 440). Ours is 7-day, no-interest stock credit at the truck, tied to each delivery, and it builds a record.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
 
 ## 21. Empty shelves for lack of credit
 - **Claim:** According to Conamype, neighbourhood shops are out of stock 24 days out of 30 because they can't get credit.
@@ -317,4 +317,4 @@ _Added in #51._
 - **Translation:** "24 out of every 30 days out of stock"
 - **Use in:** pitch / one-pager (always with "according to Conamype")
 - **Caveat:** Paul Steiner, Conamype's president, said it in a TV interview (Entrevista AM) and cited no study. Strong line, soft evidence, so attribute it every time. In the same interview he said the BFA line (entry 20) lends even to informal shops.
-- **Checked:** __
+- **Checked:** Claude, 9 Nov 2026 (link opened, quote matches the page)
