@@ -13,3 +13,6 @@ Read docs/context.md first (sections relevant to your issue). It is the source o
 - Contract: Rust in contracts/route_ledger, spec in docs/context.md section 8.2. Run `cargo test` before PR.
 - App: Next.js + TS + Tailwind, Spanish UI, mobile-first (360px). All data via app/lib/api.ts.
 - Done = tests pass, PR open, "Done means" line from the issue is met.
+- Any change touching cash-in or cash-out must also update the Risk #1 notes (docs/context.md section 6).
+- Screens say "dólares digitales", never blockchain, wallet or crypto (docs/context.md section 3.5).
+  A small "Ver detalles" link may show it is USDC on Stellar.
